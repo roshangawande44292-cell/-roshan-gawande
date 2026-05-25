@@ -1,2 +1,0 @@
-# -roshan-gawande
-solar project
